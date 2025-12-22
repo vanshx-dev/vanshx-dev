@@ -1,88 +1,110 @@
 # 🚀 VyzX Studios
 
-**VyzX Studios** is a creative-tech studio focused on building **modern digital products**, **strong brand identities**, and **scalable web solutions** for creators, startups, and businesses.
+**VyzX Studios** is a creative technology studio specializing in **modern web development**, **digital branding**, and **scalable online solutions** for creators, startups, and emerging businesses.
 
-We sit at the intersection of **design, development, and digital strategy** — where visuals are clean, code is reliable, and solutions actually work in the real world.
-
----
-
-## 🧠 What We Do
-
-- 🌐 **Web Development**
-  - Portfolio websites
-  - Business & startup websites
-  - Performance-focused frontends
-
-- 🎨 **Branding & Design**
-  - Brand identity & visual systems
-  - UI/UX design
-  - Social & digital creatives
-
-- 📈 **Digital Solutions**
-  - Online presence optimization
-  - Tech consulting for creators & small businesses
-  - Automation & custom tools (where needed)
+We focus on building products that are **clean, performant, and maintainable** — balancing strong visual identity with reliable engineering.
 
 ---
 
-## 🛠 Tech Stack
+## 👤 Founder
+
+**Vansh (VyzX)**  
+Founder & Developer — VyzX Studios
+
+- 🌐 Portfolio: https://vyzx.live  
+- 💻 GitHub: https://github.com/vyzxz  
+
+A developer-first founder with a strong emphasis on **discipline, clarity, and long-term quality**.
+
+---
+
+## 📊 Founder GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vyzxz&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vyzxz&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyzxz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Services
+
+### 🌐 Web Development
+- Personal & portfolio websites  
+- Business & startup websites  
+- Performance-optimized frontends  
+
+### 🎨 Branding & Digital Presence
+- UI/UX design  
+- Visual identity systems  
+- Digital creatives & layouts  
+
+### ⚙️ Custom Digital Solutions
+- Lightweight tools & automation  
+- Technical consulting  
+- Creator-focused tech solutions  
+
+---
+
+## 🛠 Technology Stack
 
 **Frontend**
-- HTML5, CSS3, JavaScript
-- React / Next.js
-- Tailwind CSS
+- HTML, CSS, JavaScript  
+- React / Next.js  
+- Tailwind CSS  
 
 **Backend**
-- Node.js
-- PHP (legacy & lightweight projects)
+- Node.js  
+- PHP (for lightweight or legacy use cases)
 
 **Tools & Workflow**
-- Git & GitHub
-- Figma
-- VS Code
-- Cloud & hosting platforms
+- Git & GitHub  
+- Figma  
+- VS Code  
+- Cloud & hosting platforms  
 
-> We choose tools based on **stability, performance, and long-term maintainability** — not trends for Instagram reels.
+> We prioritize **stability, performance, and maintainability** over trends.
 
 ---
 
-## 📌 Philosophy
+## 🌐 Studio Website
 
-- Clean code > clever hacks  
-- Clarity > complexity  
-- Discipline beats motivation  
-- Build slow. Build right. Build once.
+🚧 **https://studios.vyzx.live**  
+**Status:** Launching Soon  
+Currently under active development.
 
 ---
 
 ## 📂 Repositories
 
-This GitHub organization contains:
-- Client & demo projects  
-- UI components & experiments  
-- Internal tools & learning projects  
+This organization includes:
+- Founder-led projects  
+- Studio experiments & components  
+- Learning builds and production-ready demos  
 
-Some repositories may be private due to client confidentiality.
+Some repositories remain private due to client confidentiality.
 
 ---
 
-## 🤝 Let’s Connect
+## 📌 Principles
 
-- 🌍 Website: **https://vyzx.live**
-- 💼 LinkedIn: *Coming soon*
-- 📩 Contact: Available via website
+- Clean code over shortcuts  
+- Simplicity over noise  
+- Discipline over motivation  
+- Build once. Build right.
 
 ---
 
 ## ⚠️ Disclaimer
 
-All projects are built with professionalism and ethical responsibility.  
-VyzX Studios does **not** engage in or support illegal, unethical, or deceptive practices.
+VyzX Studios operates under professional and ethical standards.  
+We do **not** engage in illegal, deceptive, or unethical activities.
 
 ---
 
-### Built with focus.  
-### Shipped with intent.  
-### Maintained with discipline.
-
-© VyzX Studios
+© VyzX Studios  
+Built with focus. Shipped with intent.
